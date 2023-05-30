@@ -27,7 +27,11 @@ To run the React project locally, follow these steps:
    ```
    yarn install
    ```
-4. Once the dependencies are installed successfully, start the development server by running the following command:
+4. Install the proper module for this react query by running the following command:
+   ```
+   npm i react-query
+   ```
+5. Once the dependencies are installed successfully, start the development server by running the following command:
     ```
     npm start
     ```
@@ -35,6 +39,6 @@ To run the React project locally, follow these steps:
     ```
     yarn start
     ```
-5. Your default browser should automatically open and load the project at http://localhost:3000. If it doesn't, manually open your browser and go to that URL.
+6. Your default browser should automatically open and load the project at http://localhost:3000. If it doesn't, manually open your browser and go to that URL.
 
-6. You should now see the React project up and running locally! Any changes you make to the source code will automatically refresh the page in the browser.
+7. You should now see the React project up and running locally! Any changes you make to the source code will automatically refresh the page in the browser.
